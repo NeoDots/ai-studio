@@ -1,0 +1,7 @@
+{
+  "name": "E-Commerce Creative Studio - Watermark Remover & Enhancer",
+  "description": "Enhanced high-resolution e-commerce promotional flyer with watermark removal, interactive comparison slider, custom branding generator, and high-res export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
